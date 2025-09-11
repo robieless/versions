@@ -3,10 +3,12 @@
   "enableEntities": true,
   "enableBlockEntities": true,
   "enableDistanceCulling": true,
+  "enableTrackingCulling": true,
   "enableViewportCulling": true,
   "minDistance": 6,
   "blocksPerLevel": 64,
   "blocksPerLevelDistanceCulled": 10,
+  "blocksPerLevelTrackingCulled": 10,
   "blocksPerLevelViewportCulled": 20,
   "maxLevel": 20,
   "blocksPerLevelBlockEntities": 32,
@@ -24,7 +26,13 @@
     "minecraft:ender_dragon": false,
     "create": false,
     "minecraft:item": false,
-    "minecraft:tnt": false
+    "minecraft:tnt": false,
+    "minecraft:falling_block": false,
+    "minecraft:shulker_bullet": false,
+    "deeperdarker:stalker": false,
+    "minecraft:minecart": false,
+    "minecraft:furnace_minecart": false,
+    "minecraft:silverfish": true
   },
   "version": 2,
   "name": "immersive_optimization"
