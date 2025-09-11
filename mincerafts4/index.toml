@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "0ee4cc3d016969180f242418bfbb3155e705694c7bc8eff0f3c8e85f012a2d44"
+
+[[files]]
 file = "config/create_connected-common.toml"
 hash = "6bdf94e8a631d32ae4120156f00ea790583fca5ec81e58dd86eb36c113f63c47"
 
