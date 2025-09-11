@@ -6,7 +6,7 @@ hash = "6bdf94e8a631d32ae4120156f00ea790583fca5ec81e58dd86eb36c113f63c47"
 
 [[files]]
 file = "config/immersive_optimization.json"
-hash = "b657c2b27581ff10311557a2074a971bad61cf97aad5fe4bfa68d9e99d58f9c7"
+hash = "137299b6e13232a8b2aaaa1fb9a9a40da20a93065885d8a2d623573ea7bf2f86"
 
 [[files]]
 file = "config/rightclickharvest.json5"
@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "d9ddda0cf4030afb53c36a1c0d7897520977b608a8cbda6103b09adcb829a127"
+hash = "fe90b0672c7842cef05e9e200126d9fbb3c930c6bd175b9aaf8ed5bedc32dea7"
 metafile = true
 
 [[files]]
