@@ -1,0 +1,13 @@
+name = "Minceraft Season 5"
+author = "robieless"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "48300ab2ac4b2915258793a5612124cf6b0714200a886525f0441e258f1f29cc"
+
+[versions]
+fabric = "0.18.1"
+minecraft = "1.21.10"
