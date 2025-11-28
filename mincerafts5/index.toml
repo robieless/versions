@@ -16,6 +16,11 @@ hash = "441a6fcc8b6048849b4cc4018ded1effc9694f60e1dcae908e14a3cfd64d3d99"
 metafile = true
 
 [[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "e1dc1bb8a3537b9c5b41cbc6fa97f19729d6c9ab602810da0b192c5fc84eba7e"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
 metafile = true
