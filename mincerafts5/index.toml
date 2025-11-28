@@ -31,6 +31,11 @@ hash = "659f7b849f370718cc5216c3de0fdc4863391f9889d00ebd4ccef8274ee7026d"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "0941c5b9cafbbc4bea49d36493abb63b6e392f2bcce6b7381b0283dfc3eaec94"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "a2aa577e93491f2231af331570b5c96a384d260d8770bbd8271742567baaf2f7"
 metafile = true
