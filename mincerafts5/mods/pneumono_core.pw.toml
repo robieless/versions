@@ -1,0 +1,13 @@
+name = "PneumonoCore"
+filename = "pneumonocore-1.2.0+1.21.9+B.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZLKQjA7t/versions/bTBAXqEQ/pneumonocore-1.2.0%2B1.21.9%2BB.jar"
+hash-format = "sha512"
+hash = "dbdbdb27a7cc1c92b0eddecda478029d756517bff9ed6718260a8e40175a21a3a04b68b312c8a8ec18d3c496104a684930022662f051d40c0750d56241397652"
+
+[update]
+[update.modrinth]
+mod-id = "ZLKQjA7t"
+version = "bTBAXqEQ"

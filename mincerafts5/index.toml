@@ -341,6 +341,16 @@ hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
 metafile = true
 
 [[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "ec261574fb960b2f7119ffd30499c2343f88268c5f9797ba2c931fa7d5696009"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "0e13343f89d42b1f9e9d48b4dc2a1d8c2702a2a931c5f0e8a9cc7a93e365f979"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "4345889c03219d385b9f1ebad4cb7f19e017575b1a2097f0be32265cee148548"
 metafile = true
@@ -443,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "7b976155d02000a064de326c3918686bc8be05125a16570659c5f5c9feab768b"
+metafile = true
+
+[[files]]
+file = "mods/tutorial-suppressor.pw.toml"
+hash = "098e8419c28343b3da586eba83a8b486883ff08f58e7428cd5f332797e90aacb"
 metafile = true
 
 [[files]]

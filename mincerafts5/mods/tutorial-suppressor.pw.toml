@@ -1,0 +1,13 @@
+name = "Tutorial Suppressor"
+filename = "tutorialsuppressor-0.1.0+1.20.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SSyS4Ayv/versions/dKgfFPiz/tutorialsuppressor-0.1.0%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "37971be60b129355f3b587471d952c2c6a914f114bef6916b2c6e3534eddc013565676b419f91e5df99d24652a04fb0ccd463327ecefb1c113233cb44ae31702"
+
+[update]
+[update.modrinth]
+mod-id = "SSyS4Ayv"
+version = "dKgfFPiz"
