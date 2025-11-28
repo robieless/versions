@@ -1,0 +1,13 @@
+name = "Inv View"
+filename = "InvView-1.4.18-1.21.9+.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/jrDKjZP7/versions/OmPLoAVf/InvView-1.4.18-1.21.9%2B.jar"
+hash-format = "sha512"
+hash = "96ec498d63eee1b41ea06733f31947831278ad7e6b4261a001eb2cb84167575e78990067a83e5ecfdf96e823ba21e8b63a436e73ee39e49eda444583163ce936"
+
+[update]
+[update.modrinth]
+mod-id = "jrDKjZP7"
+version = "OmPLoAVf"

@@ -136,6 +136,11 @@ hash = "a631c57fe299407992eded731b62bfe0ff8c9909337be88e52a50c4e68f0a42b"
 metafile = true
 
 [[files]]
+file = "mods/dark-loading-screen.pw.toml"
+hash = "716b671d0b15ea17c788c571620eac83207bb2b6e8dbe0d33319838478f21efc"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "2c70a5c7fe3645b0e297fef8b9b091666e96c0b362d984918ed22df94464f2f0"
 metafile = true
@@ -221,8 +226,18 @@ hash = "9a3983cddca92765bed13fb4637be8c63a824bb0d3eb3d1c8ef1105d46d4b84d"
 metafile = true
 
 [[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "08d3ecabc2d44f8b45c54fffe7adc3fef5ab25702896e3db4f8bbe71d06073ab"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "5a6ee9ae2de75743aa027eb753ac9c3cb92305df67bde8fe2cefdd2df0eb49d7"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "8eb716a02c1a27a81f2d03cec2c989553ad5a54c7380fb7982f83abb51667e79"
 metafile = true
 
 [[files]]
