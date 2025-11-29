@@ -1,0 +1,13 @@
+name = "Fabric Trade"
+filename = "trade-1.4.0+1.21.10.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/u40ARaBc/versions/HCzueEJN/trade-1.4.0%2B1.21.10.jar"
+hash-format = "sha512"
+hash = "80191d51866c5ab9ecb5d238131b1da58c810b3a30d5a08b2707c940f84a0be4df74c6f6926e53abe0357f66fee67eec0c1d02357d56d59411518791dc56bca9"
+
+[update]
+[update.modrinth]
+mod-id = "u40ARaBc"
+version = "HCzueEJN"

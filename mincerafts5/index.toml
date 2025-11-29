@@ -196,6 +196,11 @@ hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
+file = "mods/fabric-trade.pw.toml"
+hash = "c5bfa3fcf9e68f8178debd5bec9d344fe35e20463827813270cb370d7103cb29"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "9c355e449284b00c87453f892d1a3068fc1655940aec93eb9e46ec6ed4af0a0d"
 metafile = true
@@ -483,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "e9302f39fb02c0a1f88893785d54b08e41a17c9fb3e39c29c3794e7ed7f86bad"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "b46d9c116f3710451a1250b58fca8af015c16b68375041f3f2a353c34d7683f9"
 metafile = true
 
 [[files]]
