@@ -46,6 +46,11 @@ hash = "f34fa12fe7701cf0776fef1a1f1e2e3c7227f53302b3d87b7ff307f0446a68d2"
 metafile = true
 
 [[files]]
+file = "mods/banhammer.pw.toml"
+hash = "ed08f4d2244d87d7f1330f19de6bc6719d81a488ff44ddef44d2572f523cbd89"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "94c3fc74cf184c9e5c597609dde733137f823bed718fcce32cdefaa040aa9977"
 metafile = true
