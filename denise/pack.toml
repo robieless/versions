@@ -1,0 +1,12 @@
+name = "Denise"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f766931b8e53fefaf72251355b77a1433d28bbcece3c02559b9e31383d044ff7"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.218"

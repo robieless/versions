@@ -1,0 +1,13 @@
+name = "Trade Enchantment Display"
+filename = "TradeEnchantmentDisplay-neoforge-1.0.1+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EIyCildu/versions/nf1TWWcN/TradeEnchantmentDisplay-neoforge-1.0.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "1ea464fe40f069d06e0e77bc0ad079fc132d78c3c90bb501430c71955eacb0a3be9edbe72814b937f44e96da3c06bf6748a8d9f4fa35b6883aa6aa98f717fb00"
+
+[update]
+[update.modrinth]
+mod-id = "EIyCildu"
+version = "nf1TWWcN"
