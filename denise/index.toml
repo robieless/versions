@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/waystones-common.toml"
+hash = "37cc7a205264a20e7da9a320b2e300b0341fc230c1dafe37429f3e0d915dc287"
+
+[[files]]
 file = "install.bat"
 hash = "6b5a1eed9c55857f2946dbdd90fd44f6bdb5531c84bdcdc2ef132e36ee75a252"
 
