@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/tradingpost-server.toml"
+hash = "8d66ca075a85ec8ff932e615179cced750487f13011e7f9568ccfe94a171dada"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "37cc7a205264a20e7da9a320b2e300b0341fc230c1dafe37429f3e0d915dc287"
 
