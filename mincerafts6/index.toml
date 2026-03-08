@@ -311,6 +311,11 @@ hash = "7fa8a7e71b978fe0e9e3d9bef29ad8e96f3a463936dc663b5f2d4821fa35e31f"
 metafile = true
 
 [[files]]
+file = "mods/hypertube.pw.toml"
+hash = "590367627beaf24a765bac0b3970b278d242045ef095a848dfba0615ab449bae"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "c662baa4e0747b23fbdd4e375ee93b4071c88de771ae9fdcc58a2045a6ac356a"
 metafile = true
