@@ -211,6 +211,11 @@ hash = "5e27d23ab07532da7bb1d9e19ce94fc1f8dad1924b61f980306d3822aeb7cd9c"
 metafile = true
 
 [[files]]
+file = "mods/create-threaded-trains.pw.toml"
+hash = "cc05bcaec0e857c6a6f7de4bd09a22ad195b5b77a25e4adfe737915ac3be68db"
+metafile = true
+
+[[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "dd46758c8eb82deb6dcd56a9879dc5e583ff812245ebb357fd79053a60c58871"
 metafile = true
