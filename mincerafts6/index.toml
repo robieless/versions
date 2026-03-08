@@ -22,7 +22,7 @@ hash = "e5f8f9fb64a62ed40fac4a197604a621061dcc46b8252f7aa4393a96933af46f"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
-hash = "f20a0992282fbd4647ab2ff535fbae4d00cd39dc50ee38dcd64bce1ac690fa1e"
+hash = "d4570a168be646b0c80a55550912115e1622f0fe9451e48f37e980f13bddea50"
 
 [[files]]
 file = "config/tradingpost-server.toml"
