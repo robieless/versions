@@ -404,6 +404,11 @@ hash = "6ae9430e2319ead3cb8580633c13d119c9d06f097204f3f8afbc0e4681e9a807"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "1965658333e46f8a375d3efee20cbfc49400d576f7051e81da832a70da79e3c0"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "5c1820d0d8504da6e1cf27ca964101435633187c2e1bb8363d1891aace00f58a"
 metafile = true
@@ -511,6 +516,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "4e45380047390a7981bad480189ac806694d244bb10138ede288fd2e4539dc1f"
 metafile = true
 
 [[files]]
