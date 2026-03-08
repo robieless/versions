@@ -17,6 +17,14 @@ file = "config/rightclickharvest.json5"
 hash = "3893db21c0bb5e3907e6ba5a1225f89686253b69d94bbb9008f4590e1260d441"
 
 [[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "e5f8f9fb64a62ed40fac4a197604a621061dcc46b8252f7aa4393a96933af46f"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "f20a0992282fbd4647ab2ff535fbae4d00cd39dc50ee38dcd64bce1ac690fa1e"
+
+[[files]]
 file = "config/tradingpost-server.toml"
 hash = "8d66ca075a85ec8ff932e615179cced750487f13011e7f9568ccfe94a171dada"
 
