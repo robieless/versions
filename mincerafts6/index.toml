@@ -424,11 +424,6 @@ hash = "32157b6f2b2d55bec2575281a39fc262870468727bd396379d02bf54d6325034"
 metafile = true
 
 [[files]]
-file = "mods/nyfs-spiders.pw.toml"
-hash = "10e2d5565e299d0fafa79e7c949961bf692d9a15b5de146b2905ea7df0987d29"
-metafile = true
-
-[[files]]
 file = "mods/ore-harvester.pw.toml"
 hash = "2049bf5d5c412a0673b9405869a1fb65d8a9f7a806cf1f41b512cdfe9e46a643"
 metafile = true
