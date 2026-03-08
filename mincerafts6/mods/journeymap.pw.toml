@@ -1,0 +1,13 @@
+name = "JourneyMap"
+filename = "journeymap-neoforge-1.21.1-6.0.0-beta.55.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/pYCESymm/journeymap-neoforge-1.21.1-6.0.0-beta.55.jar"
+hash-format = "sha512"
+hash = "abe6f6ff65ca3f8a9b4261baca4b81cd0eefa139a71e07b3c2990f5e224af82ad0c3a8828268bfb2a8d458c262372102fc410340e30b31c134872571a14e99be"
+
+[update]
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "pYCESymm"

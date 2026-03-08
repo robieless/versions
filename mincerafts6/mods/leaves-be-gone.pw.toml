@@ -1,0 +1,13 @@
+name = "Leaves Be Gone"
+filename = "LeavesBeGone-v21.1.0-1.21.1-NeoForge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/AVq17PqV/versions/TOHEOE2X/LeavesBeGone-v21.1.0-1.21.1-NeoForge.jar"
+hash-format = "sha256"
+hash = "5a0488eaf13106588c46697c85d6ca8bc313f6dde448e21b95a229bb0c19b845"
+
+[update]
+[update.modrinth]
+mod-id = "AVq17PqV"
+version = "TOHEOE2X"

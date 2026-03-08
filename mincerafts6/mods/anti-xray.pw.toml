@@ -1,0 +1,13 @@
+name = "AntiXray"
+filename = "antixray-neoforge-1.4.6+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/sml2FMaA/versions/XgQWQ2Hj/antixray-neoforge-1.4.6%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "4e563dcce7b3499f246364aeabfefd5c5b4a5cf0b45287497e69aae3eaf979a4"
+
+[update]
+[update.modrinth]
+mod-id = "sml2FMaA"
+version = "XgQWQ2Hj"

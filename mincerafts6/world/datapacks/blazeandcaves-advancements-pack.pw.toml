@@ -1,0 +1,13 @@
+name = "BlazeandCave's Advancements Pack"
+filename = "BlazeandCave's Advancements Pack 1.17.2.zip"
+side = "server"
+
+[download]
+hash-format = "sha256"
+hash = "2df9b3928c960814187d6b54da904dbce05b54818801a675c7b56d101922d510"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5479054
+project-id = 434024

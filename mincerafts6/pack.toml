@@ -1,0 +1,13 @@
+name = "Minceraft S6"
+author = "robieless"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e5a843ef062e5e42cbecd047e55dc1e0378c1abc32d541296ce920ad12d4564e"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"
