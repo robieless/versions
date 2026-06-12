@@ -1,0 +1,13 @@
+name = "Ore Harvester"
+filename = "oreharvester-1.21.1-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xiv4r347/versions/PZBcS2Yz/oreharvester-1.21.1-1.5.jar"
+hash-format = "sha256"
+hash = "682fa79ca07a864d7bd3f6d08ef5a94fe9b882bac817f8364af3ead3327ecf5a"
+
+[update]
+[update.modrinth]
+mod-id = "Xiv4r347"
+version = "PZBcS2Yz"

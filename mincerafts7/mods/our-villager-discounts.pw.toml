@@ -1,0 +1,13 @@
+name = "Our Villager Discounts"
+filename = "our-villager-discounts-1.21.1+build.0-forge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lw4dU9Z6/versions/bTgTYCwd/our-villager-discounts-1.21.1%2Bbuild.0-forge.jar"
+hash-format = "sha256"
+hash = "bfb262b09a2fd60da7a0bb1b02300fb21434f000851c0848ff90821f3cecff53"
+
+[update]
+[update.modrinth]
+mod-id = "Lw4dU9Z6"
+version = "bTgTYCwd"
