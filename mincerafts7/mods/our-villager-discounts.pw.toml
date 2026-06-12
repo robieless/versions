@@ -1,13 +1,13 @@
 name = "Our Villager Discounts"
-filename = "our-villager-discounts-1.21.1+build.0-forge.jar"
+filename = "our-villager-discounts-1.21.1+build.0-fabric.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/Lw4dU9Z6/versions/bTgTYCwd/our-villager-discounts-1.21.1%2Bbuild.0-forge.jar"
-hash-format = "sha256"
-hash = "bfb262b09a2fd60da7a0bb1b02300fb21434f000851c0848ff90821f3cecff53"
+url = "https://cdn.modrinth.com/data/Lw4dU9Z6/versions/At4gVNBr/our-villager-discounts-1.21.1%2Bbuild.0-fabric.jar"
+hash-format = "sha512"
+hash = "2a7985e04a486ffb4b0d893a61bc2b6425d2332d23a2d2a5e158e651489e7fe2e89ca674cdcfd33136a31b313f8c4d949540cb1404d7384307c4240e5cbe6e05"
 
 [update]
 [update.modrinth]
 mod-id = "Lw4dU9Z6"
-version = "bTgTYCwd"
+version = "At4gVNBr"
