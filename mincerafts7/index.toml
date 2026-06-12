@@ -13,6 +13,10 @@ file = "config/immersive_optimization.json"
 hash = "137299b6e13232a8b2aaaa1fb9a9a40da20a93065885d8a2d623573ea7bf2f86"
 
 [[files]]
+file = "config/neoforge-client.toml"
+hash = "06364c8fe7cc156a892d52aa7398d045946ea540e788cd893cbea426660d0c04"
+
+[[files]]
 file = "config/playertrade-common.toml"
 hash = "8e828e4ea35ebad7d1bf36b83182d41cb9c06045b3a84d41355c383fa6fef44a"
 
