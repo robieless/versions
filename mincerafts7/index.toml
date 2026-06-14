@@ -432,11 +432,6 @@ hash = "988377a2fb2346223a83b6545ec52f5b22ebd0e26b63d141427ad389bedfe4f0"
 metafile = true
 
 [[files]]
-file = "mods/luckperms.pw.toml"
-hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "cda7b1d997fa04b822b723f5ec453e9c128402b4ed02c87b2bc4595f89b635e7"
 metafile = true
