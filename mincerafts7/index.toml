@@ -42,11 +42,6 @@ hash = "ec7bf8ed3ae96b11b6636f88ea0bdf3ea5ae27ef6c80a8c15a7c5568d0b34316"
 metafile = true
 
 [[files]]
-file = "mods/advanced-chat.pw.toml"
-hash = "f1586f69606f886cf6e0f4b151f1bbd80db2ec57277eb6bd8932ae3579141253"
-metafile = true
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "1aaec67071b0a901b0b795292388261131b4d884ad846dc04c9c0653a620ca1d"
 metafile = true
@@ -437,6 +432,11 @@ hash = "988377a2fb2346223a83b6545ec52f5b22ebd0e26b63d141427ad389bedfe4f0"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "cda7b1d997fa04b822b723f5ec453e9c128402b4ed02c87b2bc4595f89b635e7"
 metafile = true
@@ -454,6 +454,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "1a06479cf811afadf8eb5b5a8cbb0c01bbda2f102530b44c86559b8450d3fb21"
+metafile = true
+
+[[files]]
+file = "mods/neoessentials.pw.toml"
+hash = "efc09d97c549b0ea37daf25e82e78883ed6727bb40361931990262373a653055"
 metafile = true
 
 [[files]]
