@@ -177,6 +177,11 @@ hash = "125fa69ac8e6e85c9d27a0ec13e575c09312c6e5fd2f97613fbcc85a19775a13"
 metafile = true
 
 [[files]]
+file = "mods/create-coasters-simulated.pw.toml"
+hash = "d5aad6415413aa777ed89ae55912f33c86757321c7c16c8392ce2e1429b920d5"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "19f3a244bf8ffca1aa53621524681f98c680e8395323e7fa50c93169a6851a74"
 metafile = true
@@ -489,6 +494,11 @@ metafile = true
 [[files]]
 file = "mods/player-trade.pw.toml"
 hash = "3ea812a9641dd774c294e341ae31ea91c81ccc09a6932b71f0c6b41b15e66e70"
+metafile = true
+
+[[files]]
+file = "mods/power-grid.pw.toml"
+hash = "0a8751beba30f064c60e2baa923aa677ff2e885f065cff915a9e771190c47053"
 metafile = true
 
 [[files]]
