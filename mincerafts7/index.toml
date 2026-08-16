@@ -347,11 +347,6 @@ hash = "704888446d5c1e5a5320ae191ab26346f9b41f3564f601d251ac1a294fa3581e"
 metafile = true
 
 [[files]]
-file = "mods/grieflogger.pw.toml"
-hash = "e464124dbd5ab9412aea3ffaee03c8a956a08400c7ba6d80084e46db9aa517f6"
-metafile = true
-
-[[files]]
 file = "mods/hide-experimental-warning.pw.toml"
 hash = "7fa8a7e71b978fe0e9e3d9bef29ad8e96f3a463936dc663b5f2d4821fa35e31f"
 metafile = true
