@@ -1,13 +1,13 @@
 name = "Server Chat Sync"
-filename = "ServerChatSync-neoforge-1.0.0.jar"
+filename = "ServerChatSync-fabric-1.0.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/pGKfWt9W/versions/wD64k7o2/ServerChatSync-neoforge-1.0.0.jar"
-hash-format = "sha256"
-hash = "8c05ec8242838b7b50dc9890e21322b257a2e99a97758580bc195c33524ae250"
+url = "https://cdn.modrinth.com/data/pGKfWt9W/versions/p7mpkhOc/ServerChatSync-fabric-1.0.0.jar"
+hash-format = "sha512"
+hash = "62c1d6139bbe3ddb4695e80b0061dfd4768270cabb8bb2c03bfe7df77612eb90a154027a61a8c0f7f4015a4e1ef0c8f3c78e8f980be0268d67d18b6ba4af0b27"
 
 [update]
 [update.modrinth]
 mod-id = "pGKfWt9W"
-version = "wD64k7o2"
+version = "p7mpkhOc"

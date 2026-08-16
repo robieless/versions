@@ -1,13 +1,13 @@
 name = "GriefLogger"
-filename = "grieflogger-1.2.9-1.21.1-neoforge.jar"
+filename = "grieflogger-1.2.10-1.21.1-fabric.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/8oGVUFuX/versions/Rmp3tvQg/grieflogger-1.2.9-1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/8oGVUFuX/versions/zPIDeXeI/grieflogger-1.2.10-1.21.1-fabric.jar"
 hash-format = "sha512"
-hash = "e8d3830fb8fa4e76948999a7344f2a4a7c2a923c912bcff9ef8be1f8bbfd82d3b2dd79537ddfdb4adf40ef888619d8d7400872975955306f2d4da334ffc331ad"
+hash = "54341ca0a7870968ea86f109cbd439b4e0d2d04822907a5d65f4ef66a8b069f0daedd6fe7d51e4566a15b8d7bc93a1ee8d04011dbd9ea209c9c2824fd5f37c3b"
 
 [update]
 [update.modrinth]
 mod-id = "8oGVUFuX"
-version = "Rmp3tvQg"
+version = "zPIDeXeI"
