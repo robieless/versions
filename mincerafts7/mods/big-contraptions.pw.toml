@@ -1,13 +1,13 @@
 name = "Create: Big Contraptions"
-filename = "bigcontraptions-fabric-1.0.jar"
+filename = "bigcontraptions-neoforge-1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/jv0UKGOX/versions/z7hpAPkO/bigcontraptions-fabric-1.0.jar"
+url = "https://cdn.modrinth.com/data/jv0UKGOX/versions/F92BjGXG/bigcontraptions-neoforge-1.0.jar"
 hash-format = "sha512"
-hash = "d6dd49855dcd6a0ffdbf62268e73cb2f669de8561e783e858fead1bd0fd76cfeaac4c0f2ab2172bc3045f6f3ff8366641dc552f978e90217e31a36ffee41e070"
+hash = "70830507e68f9c12e6b908d5fc030c960fcd7137078d7abcab48362bd68fa08c01fa7ae4207e5510b87ec47ec69f36d8dd933791a0175765c0cdfefdc138f98e"
 
 [update]
 [update.modrinth]
 mod-id = "jv0UKGOX"
-version = "z7hpAPkO"
+version = "F92BjGXG"

@@ -1,13 +1,13 @@
 name = "YUNG's Better Ocean Monuments"
-filename = "YungsBetterOceanMonuments-1.21.1-Fabric-4.1.2.jar"
+filename = "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/3dT9sgt4/versions/TGK6gpeO/YungsBetterOceanMonuments-1.21.1-Fabric-4.1.2.jar"
-hash-format = "sha512"
-hash = "2ad568affe005aa49be225ca1ce43272d773140dee7053ee4a5981288b5ef7ee92536a1d041ae3f00b6399de2f499abd1bf905cfbb764d569a99dd9b2cf8841f"
+url = "https://cdn.modrinth.com/data/3dT9sgt4/versions/yFjEcj2g/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar"
+hash-format = "sha256"
+hash = "cdcf8fe0e08c75261048d43c6ed4898972d23e096dd04a2524c136f06416ab02"
 
 [update]
 [update.modrinth]
 mod-id = "3dT9sgt4"
-version = "TGK6gpeO"
+version = "yFjEcj2g"
